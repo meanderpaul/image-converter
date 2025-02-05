@@ -1,6 +1,3 @@
-Here's a simplified README focused on usage and future development plans:
-
-```markdown:README.md
 # Image Converter
 
 A desktop application for converting images between different formats. Currently supports conversion to ICO format, with plans to expand to other formats.
@@ -72,7 +69,7 @@ Contributions are welcome! If you'd like to add support for a new format or enha
 ## Support
 
 For issues and feature requests, please create an issue in the repository.
-```
+
 
 This README focuses on:
 1. Essential features and usage instructions
